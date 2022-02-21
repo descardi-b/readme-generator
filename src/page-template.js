@@ -15,7 +15,7 @@ function createPage(answers) {
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribution](#contributing)
+* [Contribution](#contribution)
 * [Testing](#testing)
 
 ## Description
@@ -37,7 +37,7 @@ ${contributing}
 ${test}
     
 ### GitHub
-[${github}] (${link})
+[${github}](${link})
     `;
   };
 

@@ -1,5 +1,5 @@
 
-# My-Project, ![GitHub license](https://img.shields.io/badge/PublicDomain-blue.svg)
+# Your-Project, ![GitHub license](https://img.shields.io/badge/PublicDomain-blue.svg)
 
 ## Table of Contents
 
@@ -7,14 +7,14 @@
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
-* [Contribution](#contributing)
+* [Contribution](#contribution)
 * [Testing](#testing)
 
 ## Description
-Here is my project
+Here is your project
 
 ## Installation
-Here is how to install it
+Here is how to install
 
 ## Usage
 Here is how to use it
@@ -23,11 +23,11 @@ Here is how to use it
 PublicDomain
 
 ## Contribution
-Here is how to contribute
+Here are the guidelines
 
 ## Testing
-Here is how to test
+Here are the instructions
     
 ### GitHub
-[descardi-b] (https://github.com/descardi-b)
+[descardi-b](https://github.com/descardi-b)
     
