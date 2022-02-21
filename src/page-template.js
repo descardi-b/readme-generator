@@ -11,12 +11,12 @@ function createPage(answers) {
 
 ## Table of Contents
 
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contribution] (#contributing)
-* [Testing] (#testing)
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contributing)
+* [Testing](#testing)
 
 ## Description
 ${description}
