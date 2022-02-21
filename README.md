@@ -1,5 +1,5 @@
 
-# bark , ![GitHub license](https://img.shields.io/badge/PublicDomain-blue.svg)
+# My-Project, ![GitHub license](https://img.shields.io/badge/PublicDomain-blue.svg)
 
 ## Table of Contents
 
@@ -11,23 +11,23 @@
 * [Testing](#testing)
 
 ## Description
-bark bark
+Here is my project
 
 ## Installation
-bark
+Here is how to install it
 
 ## Usage
-bark
+Here is how to use it
 
 ## License
 PublicDomain
 
 ## Contribution
-bark
+Here is how to contribute
 
 ## Testing
-bark
+Here is how to test
     
 ### GitHub
-[bark] (bark)
+[descardi-b] (https://github.com/descardi-b)
     
