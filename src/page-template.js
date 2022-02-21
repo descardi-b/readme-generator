@@ -7,37 +7,37 @@ function createPage(answers) {
     }
   
     return `
-    # ${title}, ${getBadge(licenses)}
+# ${title}, ${getBadge(licenses)}
 
-    ## Table of Contents
+## Table of Contents
 
-    * [Description] (#description)
-    * [Installation Instructions] (#installation)
-    * [Usage Instructions] (#usage)
-    * [License] (#license)
-    * [Contribution Guidelines] (#contributing)
-    * [Testing Instructions] (#testing)
+* [Description] (#description)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contribution] (#contributing)
+* [Testing] (#testing)
 
-    ## Description
-    ${description}
+## Description
+${description}
 
-    ## Installation
-    ${installation}
+## Installation
+${installation}
 
-    ## Usage
-    ${usage}
+## Usage
+${usage}
 
-    ## License
-    ${licenses}
+## License
+${licenses}
 
-    ## Contributing
-    ${contributing}
+## Contribution
+${contributing}
 
-    ## Testing
-    ${test}
+## Testing
+${test}
     
-    ### GitHub
-    [${github}] (${link})
+### GitHub
+[${github}] (${link})
     `;
   };
 
